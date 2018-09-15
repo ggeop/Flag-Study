@@ -1,4 +1,4 @@
-﻿![alt text](https://github.com/ggeop/Flag-Study/blob/master/imgs/cover.PNG)
+![alt text](https://github.com/ggeop/Flag-Study/blob/master/imgs/cover.PNG)
 # Flag Study Analysis
 ## Introduction
 Religion in national symbols can often be found in national anthems of flags. In this project we will try to classify the national flags according to their characteristics. It’s commonly known that a national flag is designed with specific meanings for its colors and symbols. The colors of a national flag may be worn from the people of a nation to show their patriotism, or the design of a national flag may be altered after the occurrence of important historical events. In the first part of the project we will try to predict the religion of a country according to their flag characteristics. Although, in the second part, we will try to create groups of flags that have common characteristics, clusters.
